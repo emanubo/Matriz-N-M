@@ -1,4 +1,4 @@
-
+//autor Manuel Bohórquez
 import java.util.Scanner;
 import java.util.Stack;
 
